@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FutureBox Banner](./public/og-image.png)
+![FutureBox Banner](/public/og-image.png)
 
 **미래의 나에게 보내는 디지털 타임캡슐**
 
