@@ -1,12 +1,13 @@
 # 📦 FutureBox
-<img src="time-capsule/public/bg.png" alt="background" width="800" />
+
 <div align="center">
-<img src="time-capsule/public/og-image.png" alt="FutureBox Banner" width="400" />
+<img src="time-capsule/public/bg.png" alt="background" width="600" />
+
 
 **미래의 나에게 보내는 디지털 타임캡슐**
 
 [🚀 Live Demo](https://timecapsule-alpha.vercel.app/)
-
+<img src="time-capsule/public/og-image.png" alt="FutureBox Banner" width="200" />
 </div>
 
 ## 💡 프로젝트 소개
