@@ -6,7 +6,7 @@
 
 **미래의 나에게 보내는 디지털 타임캡슐**
 
-[🚀 Live Demo](https://timecapsule-alpha.vercel.app/)
+[🚀 Live Demo](https://futurebox-beta.vercel.app/)
 <img src="time-capsule/public/og-image.png" alt="FutureBox Banner" width="200" />
 </div>
 
