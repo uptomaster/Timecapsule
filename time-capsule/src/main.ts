@@ -326,7 +326,7 @@ export async function loadCapsules(publicPage = 1) {
             modal.remove()
             document.body.style.overflow = 'auto'
             loadCapsules(publicPage)
-          }, 300) // 애니메이션 시간만큼 대기
+          }, 0) // 애니메이션 시간만큼 대기
         }
 
         modal.querySelector('#close-modal')?.addEventListener('click', closeModal)
